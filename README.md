@@ -15,8 +15,8 @@
 #`Изменение порядка городов (перемещение)`;
 
 ## Стек:
-# React
-# Node-sass
-# Drag'n'Drop
-# Axios
-# Gh-pages
+`React`<br/>
+`Node-sass`<br/>
+`Drag'n'Drop`<br/>
+`Axios`<br/>
+`Gh-pages`<br/>
